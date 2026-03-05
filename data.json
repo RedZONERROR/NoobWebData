@@ -916,6 +916,7 @@
                         "26. Vivo y22 = Vivo y35",
                         "27. Vivo Y20 = Vivo 12s = Vivo y20a",
                         "28. Vivo y01 = Vivo y01a = Vivo y15s",
+                        "29. Vivo v40e = Vivo y400 pro",
                         "New List",
                         "New List"
                     ]
@@ -1708,7 +1709,7 @@
             ]
         },
         {
-            "name": "SIM TRAY",
+            "name": "",
             "brands": [
                 {
                     "name": "OPPO REALME ONEPLUS",
