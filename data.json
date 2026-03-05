@@ -27,7 +27,7 @@
                     ]
                 },
                 {
-                    "name": "NARMAL GLASS",
+                    "name": "NORMAL GLASS",
                     "models": [
                         "\ud83d\udcf1 Universal Narmal Glass List \ud83d\udcf1",
                         "Vivo y11 = Vivo y12 = Vivo y15 = Vivo y17 = Vivo u10 = Vivo y3",
@@ -1698,7 +1698,7 @@
             ]
         },
         {
-            "name": "PENAL BUTTON",
+            "name": "OUTER BUTTON",
             "brands": [
                 {
                     "name": "OPPO REALME ONEPLUS",
@@ -1709,7 +1709,7 @@
             ]
         },
         {
-            "name": "BITTU BOT",
+            "name": "SIM TRY",
             "brands": [
                 {
                     "name": "OPPO REALME ONEPLUS",
